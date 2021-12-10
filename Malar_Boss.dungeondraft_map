@@ -232,8 +232,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 5168.32, 6596.41 )",
-			"camera_zoom": 12.012012,
+			"camera_position": "Vector2( 5419.63, 7833.33 )",
+			"camera_zoom": 8,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -336,7 +336,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"2M Dungeon Room Builder"
+					"2M Cave Tunnels"
 				]
 			},
 			"scatter_tags_memory": {
@@ -346,10 +346,10 @@
 				]
 			},
 			"object_library_memory": {
-				"mode": "tags",
-				"scroll": 490,
+				"mode": "used",
+				"scroll": 0,
 				"selected": [
-					"res://packs/bMtmZeSe/textures/objects/46.png"
+					"res://packs/bMtmZeSe/textures/objects/43.png"
 				],
 				"search_strictness": 0.5
 			},
@@ -360,7 +360,7 @@
 		"format": 3,
 		"width": 50,
 		"height": 50,
-		"next_node_id": "46",
+		"next_node_id": "5b",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -2969,20 +2969,6 @@
 						]
 					},
 					{
-						"points": "PoolVector2Array( 1280, 3840, 1280, 11520, 11520, 11520 )",
-						"texture": "res://packs/bMtmZeSe/textures/walls/thin_light_wall.png",
-						"color": "ffffffff",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": true,
-						"node_id": "e",
-						"portals": [
-
-						]
-					},
-					{
 						"points": "PoolVector2Array( 1280, 1280, 1280, 3840 )",
 						"texture": "res://packs/bMtmZeSe/textures/walls/thin_light_wall.png",
 						"color": "ffffffff",
@@ -3040,6 +3026,46 @@
 
 				],
 				"objects": [
+					{
+						"position": "Vector2( 2674.83, 6652.8 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "51"
+					},
+					{
+						"position": "Vector2( 6494.83, 6676.8 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "4f"
+					},
+					{
+						"position": "Vector2( 8468.79, 7213.4 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "4e"
+					},
+					{
+						"position": "Vector2( 10333.9, 7477.75 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "4d"
+					},
 					{
 						"position": "Vector2( 10793.7, 10900.3 )",
 						"rotation": 0,
@@ -3371,26 +3397,6 @@
 						"node_id": "2c"
 					},
 					{
-						"position": "Vector2( 4605.29, 11304.1 )",
-						"rotation": -3.14159,
-						"scale": "Vector2( 1.5, 1.5 )",
-						"mirror": false,
-						"texture": "res://packs/bMtmZeSe/textures/objects/45.png",
-						"layer": 100,
-						"shadow": true,
-						"node_id": "2d"
-					},
-					{
-						"position": "Vector2( 5767.96, 11304.1 )",
-						"rotation": -3.14159,
-						"scale": "Vector2( 1.5, 1.5 )",
-						"mirror": false,
-						"texture": "res://packs/bMtmZeSe/textures/objects/45.png",
-						"layer": 100,
-						"shadow": true,
-						"node_id": "2e"
-					},
-					{
 						"position": "Vector2( 6930.63, 11298.8 )",
 						"rotation": -3.14159,
 						"scale": "Vector2( 1.5, 1.5 )",
@@ -3469,6 +3475,96 @@
 						"layer": 100,
 						"shadow": true,
 						"node_id": "40"
+					},
+					{
+						"position": "Vector2( 2404.17, 6716.8 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "52"
+					},
+					{
+						"position": "Vector2( 4628.17, 6420.8 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/2.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "53"
+					},
+					{
+						"position": "Vector2( 4356.17, 8284.8 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "54"
+					},
+					{
+						"position": "Vector2( 3812.17, 10268.8 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/0.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "55"
+					},
+					{
+						"position": "Vector2( 5672.97, 10776 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/0.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "56"
+					},
+					{
+						"position": "Vector2( 5150.3, 12688 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/nrzzztk3/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "57"
+					},
+					{
+						"position": "Vector2( 4200.97, 11301.3 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1.5, 1.5 )",
+						"mirror": false,
+						"texture": "res://packs/bMtmZeSe/textures/objects/45.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "58"
+					},
+					{
+						"position": "Vector2( 6222.3, 11312 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1.5, 1.5 )",
+						"mirror": false,
+						"texture": "res://packs/bMtmZeSe/textures/objects/43.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "59"
+					},
+					{
+						"position": "Vector2( 4691.63, 11488 )",
+						"rotation": 0,
+						"scale": "Vector2( 1.5, 1.5 )",
+						"mirror": false,
+						"texture": "res://packs/bMtmZeSe/textures/objects/43.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "5a"
 					}
 				],
 				"lights": [
