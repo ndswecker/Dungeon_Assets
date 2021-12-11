@@ -244,8 +244,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 6339.35, 6637.66 )",
-			"camera_zoom": 2,
+			"camera_position": "Vector2( 5138.55, 11461.4 )",
+			"camera_zoom": 4,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -364,7 +364,7 @@
 				"mode": "all",
 				"scroll": 0,
 				"selected": [
-					"res://packs/FK6JxVwZ/textures/objects/Shadow_B_40%_Circle_Half.png"
+					"res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-4.png"
 				],
 				"search_strictness": 0.5
 			},
@@ -375,7 +375,7 @@
 		"format": 3,
 		"width": 50,
 		"height": 50,
-		"next_node_id": "25a",
+		"next_node_id": "27f",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -8952,6 +8952,413 @@
 						"layer": -100,
 						"shadow": true,
 						"node_id": "248"
+					},
+					{
+						"position": "Vector2( 7182.02, 6745.66 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-1.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "25a"
+					},
+					{
+						"position": "Vector2( 6819.35, 6729.66 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-5.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "25b"
+					},
+					{
+						"position": "Vector2( 7344.69, 6309.66 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-5.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "25c"
+					},
+					{
+						"position": "Vector2( 5762.02, 5508.32 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-5.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "25d"
+					},
+					{
+						"position": "Vector2( 6187.35, 4882.99 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-5.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "25e"
+					},
+					{
+						"position": "Vector2( 5176.55, 5958.46 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-5.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "25f"
+					},
+					{
+						"position": "Vector2( 4875.75, 6649.66 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-3.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "260"
+					},
+					{
+						"position": "Vector2( 2952.55, 6595.26 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-3.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "261"
+					},
+					{
+						"position": "Vector2( 4123.75, 10220.9 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-3.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "262"
+					},
+					{
+						"position": "Vector2( 5496.55, 10835.3 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-4.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "263"
+					},
+					{
+						"position": "Vector2( 7099.75, 10812.9 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-4.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "264"
+					},
+					{
+						"position": "Vector2( 10565.4, 8563.26 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-4.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "265"
+					},
+					{
+						"position": "Vector2( 10056.6, 9718.46 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-2.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "266"
+					},
+					{
+						"position": "Vector2( 11010.2, 7673.66 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-2.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "267"
+					},
+					{
+						"position": "Vector2( 11074.2, 7267.26 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-2.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "268"
+					},
+					{
+						"position": "Vector2( 11186.2, 5558.46 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-2.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "269"
+					},
+					{
+						"position": "Vector2( 11106.2, 5344.06 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-6.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "26a"
+					},
+					{
+						"position": "Vector2( 10610.2, 5648.06 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "26b"
+					},
+					{
+						"position": "Vector2( 11183, 1574.46 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "26c"
+					},
+					{
+						"position": "Vector2( 11221.4, 1824.06 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-8.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "26d"
+					},
+					{
+						"position": "Vector2( 10610.2, 1638.46 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-8.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "26e"
+					},
+					{
+						"position": "Vector2( 5762.55, 2005.39 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-8.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "26f"
+					},
+					{
+						"position": "Vector2( 5960.55, 1649.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-8.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "270"
+					},
+					{
+						"position": "Vector2( 5860.55, 1815.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-8.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "271"
+					},
+					{
+						"position": "Vector2( 5594.55, 1671.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-1.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "272"
+					},
+					{
+						"position": "Vector2( 2046.55, 1651.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-1.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "273"
+					},
+					{
+						"position": "Vector2( 1538.55, 2403.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-1.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "274"
+					},
+					{
+						"position": "Vector2( 1662.55, 5007.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-1.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "275"
+					},
+					{
+						"position": "Vector2( 1610.55, 5223.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "276"
+					},
+					{
+						"position": "Vector2( 1362.55, 6087.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "277"
+					},
+					{
+						"position": "Vector2( 2782.55, 5911.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "278"
+					},
+					{
+						"position": "Vector2( 1822.55, 7811.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "279"
+					},
+					{
+						"position": "Vector2( 2786.55, 9403.39 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "27a"
+					},
+					{
+						"position": "Vector2( 4098.55, 9927.39 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "27b"
+					},
+					{
+						"position": "Vector2( 1770.55, 11123.4 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsD-7.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "27c"
+					},
+					{
+						"position": "Vector2( 5478.55, 12007.4 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-4.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "27d"
+					},
+					{
+						"position": "Vector2( 5078.55, 11767.4 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/H0hDYdyG/textures/objects/AoA_Clouds/colorable/CloudsC-4.png",
+						"layer": 700,
+						"shadow": true,
+						"custom_color": "ffd8d8d8",
+						"node_id": "27e"
 					}
 				],
 				"lights": [
