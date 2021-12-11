@@ -244,8 +244,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 8936.62, 6770.89 )",
-			"camera_zoom": 1,
+			"camera_position": "Vector2( 5693.42, 6476.87 )",
+			"camera_zoom": 8,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -364,7 +364,7 @@
 				"mode": "tags",
 				"scroll": 0,
 				"selected": [
-					"res://packs/h89VR3dt/textures/objects/19.png"
+					"res://packs/h89VR3dt/textures/objects/22.png"
 				],
 				"search_strictness": 0.5
 			},
@@ -375,7 +375,7 @@
 		"format": 3,
 		"width": 50,
 		"height": 50,
-		"next_node_id": "389",
+		"next_node_id": "41f",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -2955,6 +2955,300 @@
 
 				],
 				"walls": [
+					{
+						"points": "PoolVector2Array( 2833.42, 7076.87, 3022.76, 7079.53, 3329.42, 6890.2, 3481.42, 6836.87, 3740.09, 6823.53, 3844.09, 6895.53, 3972.09, 6815.53, 4030.76, 6743.53, 4214.76, 6724.87 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "41c",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 1721.42, 7311.53, 1934.76, 7252.87, 2220.09, 7255.53, 2372.09, 7111.53, 2537.42, 7039.53 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "41b",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 3782.76, 5895.53, 3609.42, 5988.87, 3337.42, 6034.2, 2902.76, 6111.53, 2508.09, 6124.87, 2457.42, 6234.2, 2340.09, 6234.2 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "41a",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 4116.09, 5631.53, 4100.09, 5786.2, 3900.09, 5850.2, 3748.09, 5916.87 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "419",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 5724.09, 5959.53, 5601.42, 5855.53, 5366.76, 5591.53, 5246.76, 5626.2, 5105.42, 5660.87, 4902.76, 5818.2, 4830.76, 5866.2, 4705.42, 5791.53, 4609.42, 5703.53 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "418",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 6566.76, 4647.53, 6478.76, 4468.87, 6265.42, 4330.2, 5940.09, 4300.87, 5817.42, 4450.2, 5732.09, 4618.2, 5705.42, 4788.87, 5622.76, 4860.87 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "416",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 8137.69, 2421.13, 8791.02, 3029.13 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "415",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 6650.76, 3866.47, 7188.36, 4368.87 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "413",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 8151.56, 2404.07, 6839.56, 3661.67 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "412",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 8372.36, 2093.67, 10058.8, 3834.47 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "411",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 8439.56, 5536.87, 8372.36, 5556.07, 8106.76, 5380.07 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "410",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 10055.6, 3844.07, 8407.56, 5565.67 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "40e",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 10487.7, 6079.13, 10482.9, 5944.73 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "40b",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 10465.3, 5991.13, 10524.5, 5879.13, 10474.9, 5783.13, 10510.1, 5709.53, 10458.9, 5650.33, 10369.3, 5631.13, 10319.7, 5571.93, 10231.7, 5451.93, 10226.9, 5362.33, 10321.3, 5291.93, 10441.3, 5237.53 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "40a",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 10221, 6906.87, 10313.8, 6874.87 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "409",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 10278.6, 6887.67, 10344.2, 6780.47, 10395.4, 6753.27, 10408.2, 6650.87, 10339.4, 6530.87 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "408",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 9336.62, 6977.4, 9663.29, 6980.07, 9711.29, 6906.73, 9797.96, 7006.73, 9920.62, 7014.73, 10102, 6929.4, 10166, 6825.4 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "407",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 8501.95, 6722.73, 8688.62, 6732.07, 8816.62, 6774.73, 8973.95, 6716.07, 9175.29, 6885.4, 9365.95, 6977.4 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "406",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 4343.82, 9694.73, 4473.82, 9560.73, 4433.82, 9456.73, 4479.82, 9252.73, 4423.82, 9188.73, 4513.82, 9152.73, 4553.82, 8954.73, 4681.82, 8820.73, 4701.82, 8712.73 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "403",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 5115.82, 10237.9, 5027.82, 10247.9, 4961.82, 10153.9, 4779.82, 10151.9, 4651.82, 10053.9, 4459.82, 10029.9, 4497.82, 9941.93, 4475.82, 9767.93, 4411.82, 9787.93, 4383.82, 9675.93, 4463.82, 9553.93, 4399.82, 9469.93 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "402",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 6027.82, 11251.1, 5989.82, 11115.9, 5929.82, 10869.9, 5881.82, 10707.9, 5781.82, 10643.9, 5749.82, 10529.9, 5645.82, 10399.9, 5559.82, 10363.9, 5379.82, 10247.9, 5287.82, 10319.9, 5105.82, 10237.9 )",
+						"texture": "res://packs/Cc3XWIgq/textures/walls/SightBlock.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "401",
+						"portals": [
+
+						]
+					},
 					{
 						"points": "PoolVector2Array( 11517.7, 10228.3, 11497.7, 10380.3, 11217.7, 10604.3, 11213.7, 10728.3 )",
 						"texture": "res://packs/bMtmZeSe/textures/walls/thin_light_wall.png",
@@ -8727,9 +9021,369 @@
 						"shrink": true,
 						"loop": false,
 						"node_id": "388"
+					},
+					{
+						"position": "Vector2( 10881.3, 2663.66 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -257.601, 134.4, -585.601, 92.8, -832, -174.4, -900.8, -540.8, -921.6, -728, -1028.8, -875.2, -1142.4, -940.8 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 512,
+						"layer": -100,
+						"fade_in": true,
+						"fade_out": true,
+						"grow": false,
+						"shrink": false,
+						"loop": false,
+						"node_id": "3bc"
+					},
+					{
+						"position": "Vector2( 10503.7, 2828.46 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -401.601, -350.4, -556.8, -561.6, -556.8, -561.6 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 512,
+						"layer": -100,
+						"fade_in": true,
+						"fade_out": true,
+						"grow": false,
+						"shrink": false,
+						"loop": false,
+						"node_id": "3c0"
+					},
+					{
+						"position": "Vector2( 10501.8, 6102.72 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 53.333, -378.667, -149.334, -564, -258.667, -700 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": true,
+						"fade_out": true,
+						"grow": false,
+						"shrink": false,
+						"loop": false,
+						"node_id": "3c1"
+					},
+					{
+						"position": "Vector2( 10249.8, 5470.72 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 84, -148, 248, -266.667 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": true,
+						"fade_out": true,
+						"grow": false,
+						"shrink": false,
+						"loop": false,
+						"node_id": "3c2"
+					},
+					{
+						"position": "Vector2( 9990.1, 7069.92 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 292.8, -139.2, 459.2, -324.8, 428.8, -550.4 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": true,
+						"fade_out": false,
+						"grow": false,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3c4"
+					},
+					{
+						"position": "Vector2( 4567.16, 5467.79 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 2.6665, 378.667, 344, 450.667, 560, 282.667, 765.333, 242.667 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3c7"
+					},
+					{
+						"position": "Vector2( 5260.5, 5649.12 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 178.667, 88, 325.333, 253.333, 480, 400 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3ca"
+					},
+					{
+						"position": "Vector2( 3761.83, 5953.12 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 288, -37.3335, 426.667, -397.333 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3cd"
+					},
+					{
+						"position": "Vector2( 5656.23, 6708.59 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -654, 38, -812, 296, -786, 520 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3d0"
+					},
+					{
+						"position": "Vector2( 4269.83, 6609.12 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -408, 160, -866, 90, -1088, 216, -1266, 320, -1510, 388, -1664, 316 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 108.799995,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3d2"
+					},
+					{
+						"position": "Vector2( 5783.83, 4795.12 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 57.3335, -302.667, 198.667, -450.667 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3e3"
+					},
+					{
+						"position": "Vector2( 5926.5, 4383.12 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 348, 50.667, 584, 226.667 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3e5"
+					},
+					{
+						"position": "Vector2( 6095.83, 5505.79 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -284, -120, -444, -312, -490.667, -516 )",
+						"smoothness": 1,
+						"texture": "res://packs/FK6JxVwZ/textures/paths/ShadowPath_Half_B_40%.png",
+						"width": 435.199982,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3e6"
+					},
+					{
+						"position": "Vector2( 9182.56, 9993.66 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 220, -217.334, 530.666, -268, 596, -404, 544, -688, 366.666, -838.667 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 108.799995,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3f2"
+					},
+					{
+						"position": "Vector2( 10650.6, 9044.32 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -252, 2.66699, -334.667, 304, -168, 638.667, -25.333, 781.334, -85.333, 918.667, -302.667, 1084, -298.667, 1146.67 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 108.799995,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3f3"
+					},
+					{
+						"position": "Vector2( 9206.03, 9937.66 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 252.801, -212.801, 545.601, -246.4, 507.2, -577.601, 302.4, -750.4, 288, -766.4 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 108.799995,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3f9"
+					},
+					{
+						"position": "Vector2( 10510, 10044.9 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 144, -201.6, 48, -347.199, -72, -491.199 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 108.799995,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3fa"
+					},
+					{
+						"position": "Vector2( 10399.6, 9276.86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 33.6006, -206.399, 273.601, -211.2 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 108.799995,
+						"layer": -100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3fb"
+					},
+					{
+						"position": "Vector2( 4331.82, 9417.53 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -166.4, 451.2, 192, 764.8, 608, 860.8 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 128,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3fe"
+					},
+					{
+						"position": "Vector2( 5141.42, 10367.9 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 553.6, 291.2, 704, 585.601, 729.6, 857.601 )",
+						"smoothness": 1,
+						"texture": "res://textures/paths/shadow_(flat).png",
+						"width": 128,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": true,
+						"shrink": true,
+						"loop": false,
+						"node_id": "3ff"
 					}
 				],
 				"objects": [
+					{
+						"position": "Vector2( 3790.76, 5940.99 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/23.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3b4"
+					},
+					{
+						"position": "Vector2( 10669.4, 2893.19 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.69, 0.69 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/16.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "39c"
+					},
+					{
+						"position": "Vector2( 10055, 2534.79 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.69, 0.69 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/18.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "39b"
+					},
+					{
+						"position": "Vector2( 10323.3, 5285.19 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/16.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "39a"
+					},
 					{
 						"position": "Vector2( 2991.95, 4010.02 )",
 						"rotation": -2.094395,
@@ -13055,6 +13709,626 @@
 						"shadow": true,
 						"custom_color": "ff546d56",
 						"node_id": "d8"
+					},
+					{
+						"position": "Vector2( 9117.03, 6867.19 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/24.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "38e"
+					},
+					{
+						"position": "Vector2( 9429.03, 7043.19 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/2.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "38f"
+					},
+					{
+						"position": "Vector2( 9617.03, 7013.86 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/23.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "390"
+					},
+					{
+						"position": "Vector2( 8847.03, 6781.19 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/23.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "391"
+					},
+					{
+						"position": "Vector2( 8261.43, 6680.39 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/24.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "392"
+					},
+					{
+						"position": "Vector2( 8541.43, 6736.39 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/23.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "393"
+					},
+					{
+						"position": "Vector2( 8687.03, 6753.99 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/23.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "394"
+					},
+					{
+						"position": "Vector2( 9981.43, 7029.19 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/5.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "395"
+					},
+					{
+						"position": "Vector2( 10339.8, 6790.79 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/4.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "396"
+					},
+					{
+						"position": "Vector2( 8054.49, 6503.86 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/4.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "397"
+					},
+					{
+						"position": "Vector2( 10489.2, 5789.19 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/4.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "398"
+					},
+					{
+						"position": "Vector2( 10232.1, 5521.99 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/15.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "399"
+					},
+					{
+						"position": "Vector2( 9850.22, 1952.39 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.69, 0.69 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "39d"
+					},
+					{
+						"position": "Vector2( 9565.42, 1827.59 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.69, 0.69 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "39e"
+					},
+					{
+						"position": "Vector2( 10925.4, 2813.19 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 0.69, 0.69 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "39f"
+					},
+					{
+						"position": "Vector2( 10906.2, 2726.79 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 0.69, 0.69 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a0"
+					},
+					{
+						"position": "Vector2( 10485.4, 5241.99 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a1"
+					},
+					{
+						"position": "Vector2( 10475.8, 6057.99 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a2"
+					},
+					{
+						"position": "Vector2( 10374.8, 6543.73 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a3"
+					},
+					{
+						"position": "Vector2( 9713.42, 6975.73 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a4"
+					},
+					{
+						"position": "Vector2( 8956.09, 6754.39 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a5"
+					},
+					{
+						"position": "Vector2( 8440.09, 6713.06 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a6"
+					},
+					{
+						"position": "Vector2( 7993.42, 6243.73 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a7"
+					},
+					{
+						"position": "Vector2( 10160.8, 6916.39 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a8"
+					},
+					{
+						"position": "Vector2( 10171.4, 5385.73 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3a9"
+					},
+					{
+						"position": "Vector2( 7524.09, 6442.73 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/24.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3aa"
+					},
+					{
+						"position": "Vector2( 7050.76, 6282.73 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/24.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ab"
+					},
+					{
+						"position": "Vector2( 6544.09, 6217.39 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/24.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ac"
+					},
+					{
+						"position": "Vector2( 5822.36, 5990.06 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/4.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ad"
+					},
+					{
+						"position": "Vector2( 5508.36, 5756.06 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/23.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ae"
+					},
+					{
+						"position": "Vector2( 5156.36, 5668.06 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/18.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3af"
+					},
+					{
+						"position": "Vector2( 4760.36, 5894.06 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/2.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3b0"
+					},
+					{
+						"position": "Vector2( 4546.36, 5654.06 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/2.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3b1"
+					},
+					{
+						"position": "Vector2( 4616.36, 5424.06 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3b2"
+					},
+					{
+						"position": "Vector2( 4077.42, 5815.66 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3b3"
+					},
+					{
+						"position": "Vector2( 4125.42, 5590.32 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3b5"
+					},
+					{
+						"position": "Vector2( 3864.09, 5890.32 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3b6"
+					},
+					{
+						"position": "Vector2( 3589.83, 6635.12 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3d3"
+					},
+					{
+						"position": "Vector2( 3401.83, 6645.12 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.79, 0.79 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3d4"
+					},
+					{
+						"position": "Vector2( 4389.83, 6635.12 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.79, 0.79 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3d5"
+					},
+					{
+						"position": "Vector2( 4345.83, 7179.12 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.79, 0.79 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3d6"
+					},
+					{
+						"position": "Vector2( 3485.83, 6731.12 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.79, 0.79 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3d7"
+					},
+					{
+						"position": "Vector2( 4875.83, 7327.12 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.79, 0.79 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3d8"
+					},
+					{
+						"position": "Vector2( 3835.83, 9191.12 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.79, 0.79 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3d9"
+					},
+					{
+						"position": "Vector2( 4567.83, 10845.1 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.79, 0.79 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3da"
+					},
+					{
+						"position": "Vector2( 6285.16, 4397.79 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/18.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3db"
+					},
+					{
+						"position": "Vector2( 5797.16, 4525.79 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/18.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3dc"
+					},
+					{
+						"position": "Vector2( 5778.5, 5421.79 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/18.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3dd"
+					},
+					{
+						"position": "Vector2( 5621.16, 5112.46 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/21.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3de"
+					},
+					{
+						"position": "Vector2( 5693.16, 4875.12 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/21.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3df"
+					},
+					{
+						"position": "Vector2( 6506.5, 4645.79 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.49, 0.49 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/21.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3e0"
+					},
+					{
+						"position": "Vector2( 10474.5, 9143.65 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3e7"
+					},
+					{
+						"position": "Vector2( 10472.1, 9537.25 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/5.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3e8"
+					},
+					{
+						"position": "Vector2( 9642.1, 9643.25 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/3.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3e9"
+					},
+					{
+						"position": "Vector2( 9684.1, 9345.25 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/2.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ea"
+					},
+					{
+						"position": "Vector2( 9320.5, 9747.65 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/18.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3eb"
+					},
+					{
+						"position": "Vector2( 10626.1, 9939.65 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/17.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ec"
+					},
+					{
+						"position": "Vector2( 10421.3, 10131.7 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/21.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ed"
+					},
+					{
+						"position": "Vector2( 10693.3, 9098.05 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/21.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ee"
+					},
+					{
+						"position": "Vector2( 9554.1, 9232.45 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/21.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3ef"
+					},
+					{
+						"position": "Vector2( 9138.1, 9952.45 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3f0"
+					},
+					{
+						"position": "Vector2( 10651.7, 9677.25 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.39, 0.39 )",
+						"mirror": false,
+						"texture": "res://packs/h89VR3dt/textures/objects/22.png",
+						"layer": -100,
+						"shadow": true,
+						"node_id": "3f1"
 					}
 				],
 				"lights": [
