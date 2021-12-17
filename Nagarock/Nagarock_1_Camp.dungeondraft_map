@@ -26,6 +26,18 @@
 				}
 			},
 			{
+				"name": "2M Nomadic Camp",
+				"id": "YcqyfuJr",
+				"version": "1",
+				"author": "2-Minute Tabletop",
+				"custom_color_overrides": {
+					"enabled": false,
+					"min_redness": 0.1,
+					"min_saturation": 0,
+					"red_tolerance": 0.04
+				}
+			},
+			{
 				"name": "2-Minute Tabletop Bandit Camp",
 				"id": "fg05gk3m",
 				"version": "1",
@@ -300,7 +312,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-
+					"2M Furniture Map Assets"
 				]
 			},
 			"scatter_tags_memory": {
@@ -309,7 +321,14 @@
 
 				]
 			},
-			"object_library_memory": null,
+			"object_library_memory": {
+				"mode": "tags",
+				"scroll": 0,
+				"selected": [
+
+				],
+				"search_strictness": 0.5
+			},
 			"scatter_library_memory": null
 		}
 	},
